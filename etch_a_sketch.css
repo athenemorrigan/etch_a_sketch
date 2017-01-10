@@ -1,0 +1,28 @@
+*	{
+	background-color: #C8CBCC;
+}
+
+#title	{
+	text-align: center;
+}
+
+#options ul	{
+	list-style-type: none;
+	text-align: center;
+}
+
+#options ul li {
+	display: inline;
+}
+
+#wrapper	{
+	margin: 0 auto;
+	width: 600px;
+	height: 600px;
+}
+
+#wrapper div{
+	display: inline-block;
+	background-color: white;
+}
+
